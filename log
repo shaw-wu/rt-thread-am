@@ -1,0 +1,20 @@
+src/Kconfig:            1. memtrace
+src/mem.c:int memtrace(int argc, char **argv)
+src/mem.c:MSH_CMD_EXPORT(memtrace, dump memory trace information);
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b30 <memtrace>:
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b48:	00a7d663          	bge	a5,a0,80016b54 <memtrace+0x24>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b68:	00f41a63          	bne	s0,a5,80016b7c <memtrace+0x4c>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b6c:	1980006f          	j	80016d04 <memtrace+0x1d4>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b78:	18f40663          	beq	s0,a5,80016d04 <memtrace+0x1d4>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b88:	00078c63          	beqz	a5,80016ba0 <memtrace+0x70>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b9c:	fc051ae3          	bnez	a0,80016b70 <memtrace+0x40>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016c34:	04d71e63          	bne	a4,a3,80016c90 <memtrace+0x160>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016c38:	f39ff06f          	j	80016b70 <memtrace+0x40>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016c74:	08e78263          	beq	a5,a4,80016cf8 <memtrace+0x1c8>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016c8c:	ee9682e3          	beq	a3,s1,80016b70 <memtrace+0x40>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016cc0:	02e6d263          	bge	a3,a4,80016ce4 <memtrace+0x1b4>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016cd0:	f6c746e3          	blt	a4,a2,80016c3c <memtrace+0x10c>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016ce0:	f65ff06f          	j	80016c44 <memtrace+0x114>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016cf4:	f51ff06f          	j	80016c44 <memtrace+0x114>
+bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016d00:	f79ff06f          	j	80016c78 <memtrace+0x148>
+bsp/abstract-machine/src/uart.c:  static const char *p = "help\ndate\nversion\nfree\nps\npwd\nls\nmemtrace\nmemcheck\nutest_list\n";
