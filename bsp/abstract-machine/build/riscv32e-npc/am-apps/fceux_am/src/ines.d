@@ -1,0 +1,26 @@
+/home/shaw/ysyx-workbench/fceux-am/build/riscv32e-npc/src/ines.o: \
+ /home/shaw/ysyx-workbench/fceux-am/src/ines.cpp \
+ /home/shaw/ysyx-workbench/fceux-am/src/types.h \
+ /home/shaw/ysyx-workbench/abstract-machine/klib/include/klib.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/am.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/arch/riscv.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/amdev.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/x6502.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/x6502struct.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/fceu.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/git.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/md5.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/../types.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/valuearray.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/cart.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/ppu.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/ines.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/unif.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/state.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/file.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/emufile.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/general.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/memory.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/driver.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/ines-bad.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/ines-correct.h

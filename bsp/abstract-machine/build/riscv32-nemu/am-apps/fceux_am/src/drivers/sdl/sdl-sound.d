@@ -1,0 +1,20 @@
+/home/shaw/ysyx-workbench/fceux-am/build/riscv32-nemu/src/drivers/sdl/sdl-sound.o: \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/sdl-sound.cpp \
+ /home/shaw/ysyx-workbench/abstract-machine/klib/include/klib-macros.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/sdl.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/main.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../driver.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../types.h \
+ /home/shaw/ysyx-workbench/abstract-machine/klib/include/klib.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/am.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/arch/riscv.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/amdev.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../git.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../utils/md5.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../utils/../types.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../utils/valuearray.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../file.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../emufile.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/dface.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/input.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/drivers/sdl/../../config.h

@@ -1,0 +1,26 @@
+/home/shaw/ysyx-workbench/fceux-am/build/native/src/ppu.o: \
+ /home/shaw/ysyx-workbench/fceux-am/src/ppu.cpp \
+ /home/shaw/ysyx-workbench/fceux-am/src/types.h \
+ /home/shaw/ysyx-workbench/abstract-machine/klib/include/klib.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/am.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/arch/native.h \
+ /home/shaw/ysyx-workbench/abstract-machine/am/include/amdev.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/x6502.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/x6502struct.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/fceu.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/git.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/md5.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/../types.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/valuearray.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/ppu.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/sound.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/file.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/emufile.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/utils/memory.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/cart.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/palette.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/state.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/video.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/input.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/driver.h \
+ /home/shaw/ysyx-workbench/fceux-am/src/pputile.inc
