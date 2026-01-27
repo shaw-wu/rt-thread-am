@@ -79,7 +79,7 @@ void tentry_pack(void *entrypack) {
 rt_uint8_t *rt_hw_stack_init(void *tentry, void *parameter, rt_uint8_t *stack_addr, void *texit) {
 	uintptr_t sp = (uintptr_t)stack_addr & -sizeof(uintptr_t);
 
-  EntryPack *pack = (EntryPack *)((sp - sizeof(EntryPack)) & -sizeof(uintptr_t));
+    EntryPack *pack = (EntryPack *)((sp - sizeof(EntryPack)) & -sizeof(uintptr_t));
 	pack->tentry = tentry;
 	pack->parameter = parameter;
 	pack->texit = texit;
