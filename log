@@ -1,4 +1,5 @@
 src/Kconfig:            1. memtrace
+
 src/mem.c:int memtrace(int argc, char **argv)
 src/mem.c:MSH_CMD_EXPORT(memtrace, dump memory trace information);
 bsp/abstract-machine/build/rtthread-riscv32e-nemu.txt:80016b30 <memtrace>:
